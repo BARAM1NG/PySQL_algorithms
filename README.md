@@ -7,7 +7,7 @@
 - 알고리즘 정리 notion: https://www.notion.so/ALGORITHM-1856dec19fc148a0824acbca217db532?pvs=4
 
 ---
-## Baekjoon Status
+## Baekjoon Log
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahramo0418)](https://solved.ac/ahramo0418)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ahramo0418&theme=cold)
 
