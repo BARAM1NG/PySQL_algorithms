@@ -7,11 +7,12 @@
 - 알고리즘 정리 notion: https://www.notion.so/ALGORITHM-1856dec19fc148a0824acbca217db532?pvs=4
 
 ---
-## Baekjoon Log
+# Baekjoon Log
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ahramo0418)](https://solved.ac/ahramo0418)
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ahramo0418&theme=cold)
 
 ---
-## Rule
+# Rule
 - 1일 3문제 push
 - 어렵거나 새로운 내용은 별개로 notion에 따로 정리 
