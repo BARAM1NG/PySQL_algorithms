@@ -1,4 +1,4 @@
-# Python Algorithms
+# Python/SQL Algorithms
 ![image](https://github.com/BARAM1NG/python_algorithms/assets/122276734/9d8383c0-cd66-4f12-a1fb-4820c2658fe8)
 
 
